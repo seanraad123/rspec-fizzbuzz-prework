@@ -7,5 +7,3 @@ def fizzbuzz(n)
     puts "FizzBuzz"
   end
 end
-
-fizzbuzz(30)
